@@ -1,0 +1,54 @@
+{
+  "name": "spring-river",
+  "version": "0.0.0-development",
+  "description": "Asynchronous Queue-based Microservices",
+  "repository": "https://github.com/gtramontina/spring-river.git",
+  "main": "./lib/index.js",
+  "bin": {
+    "river": "./bin/river.js",
+    "spring": "./bin/spring.js"
+  },
+  "scripts": {
+    "lint": "xo",
+    "test": "nyc ava",
+    "precommit": "lint-staged",
+    "commitmsg": "validate-commit-msg",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "author": "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "args": "^2.4.1",
+    "boxen": "^1.0.0",
+    "chalk": "^1.1.3",
+    "cli-truncate": "^1.0.0",
+    "dedent": "^0.7.0",
+    "node-version": "^1.0.0",
+    "wrap-ansi": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "commitizen": "^2.9.6",
+    "husky": "^0.13.3",
+    "lint-staged": "^3.4.0",
+    "nyc": "^10.2.0",
+    "semantic-release": "^6.3.2",
+    "validate-commit-msg": "^2.12.1",
+    "xo": "^0.18.1"
+  },
+  "lint-staged": {
+    "*.js": [
+      "xo"
+    ]
+  },
+  "ava": {
+    "timeout": "2s",
+    "concurrency": 10
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}

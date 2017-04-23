@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "name": "monitor",
+  "scripts": {
+    "start": "river"
+  },
+  "dependencies": {
+    "prettyjson": "^1.2.1",
+    "spring-river": "file:../../"
+  }
+}

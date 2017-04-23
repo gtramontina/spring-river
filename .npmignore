@@ -1,0 +1,10 @@
+node_modules/
+test/
+examples/
+npm-debug.log
+coverage/
+.nyc_output
+.editorconfig
+.nvmrc
+.gitignore
+README.md

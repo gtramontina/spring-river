@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "name": "rental-need",
+  "scripts": {
+    "start": "spring"
+  },
+	"dependencies": {
+		"spring-river": "file:../../"
+	}
+}

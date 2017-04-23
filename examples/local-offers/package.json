@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "name": "local-offers",
+  "scripts": {
+    "start": "river"
+  },
+	"dependencies": {
+		"spring-river": "file:../../"
+	}
+}
