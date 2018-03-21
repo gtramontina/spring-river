@@ -18,4 +18,5 @@ test('does not execute the next action when at least one predicate evaluates to 
 	predicates(yes, yes, no)(() => {
 		t.fail('should not execute the next action');
 	})(testPacket);
+	t.pass('All good');
 });
