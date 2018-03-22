@@ -43,7 +43,6 @@
     ]
   },
   "ava": {
-    "timeout": "2s",
     "concurrency": 10
   },
   "config": {
