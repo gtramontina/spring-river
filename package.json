@@ -13,7 +13,7 @@
     "test": "nyc ava",
     "precommit": "lint-staged",
     "commitmsg": "validate-commit-msg",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release"
   },
   "author": "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
   "license": "MIT",
