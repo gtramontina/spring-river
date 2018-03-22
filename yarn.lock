@@ -287,15 +287,15 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
-args@^2.4.1:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/args/-/args-2.6.0.tgz#5f2b310a4831f1181a7bf0d92f81aed32b538eb4"
+args@^3.0.0:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/args/-/args-3.0.8.tgz#2f425ab639c69d74ff728f3d7c6e93b97b91af7c"
   dependencies:
     camelcase "4.1.0"
-    chalk "1.1.3"
-    minimist "1.2.0"
-    pkginfo "0.4.0"
-    string-similarity "1.1.0"
+    chalk "2.1.0"
+    mri "1.1.0"
+    pkginfo "0.4.1"
+    string-similarity "1.2.0"
 
 argv-formatter@~1.0.0:
   version "1.0.0"
@@ -1086,6 +1086,14 @@ chalk@1.1.3, chalk@^1.0.0, chalk@^1.1.0, chalk@^1.1.1, chalk@^1.1.3:
     has-ansi "^2.0.0"
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
+
+chalk@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.1.0.tgz#ac5becf14fa21b99c6c92ca7a7d7cfd5b17e743e"
+  dependencies:
+    ansi-styles "^3.1.0"
+    escape-string-regexp "^1.0.5"
+    supports-color "^4.0.0"
 
 chalk@^0.4.0:
   version "0.4.0"
@@ -3931,6 +3939,10 @@ modify-values@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/modify-values/-/modify-values-1.0.0.tgz#e2b6cdeb9ce19f99317a53722f3dbf5df5eaaab2"
 
+mri@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/mri/-/mri-1.1.0.tgz#5c0a3f29c8ccffbbb1ec941dcec09d71fa32f36a"
+
 ms@0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/ms/-/ms-0.7.1.tgz#9cd13c03adbff25b65effde7ce864ee952017098"
@@ -4481,9 +4493,9 @@ pkg-up@^1.0.0:
   dependencies:
     find-up "^1.0.0"
 
-pkginfo@0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/pkginfo/-/pkginfo-0.4.0.tgz#349dbb7ffd38081fcadc0853df687f0c7744cd65"
+pkginfo@0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/pkginfo/-/pkginfo-0.4.1.tgz#b5418ef0439de5425fc4995042dced14fb2a84ff"
 
 plur@^2.0.0, plur@^2.1.2:
   version "2.1.2"
@@ -5299,9 +5311,9 @@ strict-uri-encode@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713"
 
-string-similarity@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/string-similarity/-/string-similarity-1.1.0.tgz#3c66498858a465ec7c40c7d81739bbd995904914"
+string-similarity@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/string-similarity/-/string-similarity-1.2.0.tgz#d75153cb383846318b7a39a8d9292bb4db4e9c30"
   dependencies:
     lodash "^4.13.1"
 
@@ -5416,6 +5428,12 @@ supports-color@^3.1.2:
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-3.2.3.tgz#65ac0504b3954171d8a64946b2ae3cbb8a5f54f6"
   dependencies:
     has-flag "^1.0.0"
+
+supports-color@^4.0.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.5.0.tgz#be7a0de484dec5c5cddf8b3d59125044912f635b"
+  dependencies:
+    has-flag "^2.0.0"
 
 supports-color@^5.0.0, supports-color@^5.3.0:
   version "5.3.0"
