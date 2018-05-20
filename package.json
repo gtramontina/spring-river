@@ -35,7 +35,7 @@
     "nyc": "11.8.0",
     "semantic-release": "15.4.1",
     "validate-commit-msg": "2.14.0",
-    "xo": "0.21.0"
+    "xo": "0.21.1"
   },
   "lint-staged": {
     "*.js": [
