@@ -1396,9 +1396,9 @@ commander@~2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.1.0.tgz#d121bbae860d9992a3d517ba96f56588e47c6781"
 
-commitizen@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/commitizen/-/commitizen-2.10.0.tgz#c25778d6c708ec82f7c5c1fa5a37ebd74e7db760"
+commitizen@2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/commitizen/-/commitizen-2.10.1.tgz#8c395def34a895f4e94952c2efc3c9eb4c3683bd"
   dependencies:
     cachedir "^1.1.0"
     chalk "1.1.3"
