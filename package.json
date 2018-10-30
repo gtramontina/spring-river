@@ -31,7 +31,7 @@
     "ava": "0.25.0",
     "commitizen": "3.0.4",
     "husky": "1.1.2",
-    "lint-staged": "8.0.2",
+    "lint-staged": "8.0.3",
     "nyc": "13.1.0",
     "semantic-release": "15.10.6",
     "validate-commit-msg": "2.14.0",
