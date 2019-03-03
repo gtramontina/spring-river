@@ -25,7 +25,7 @@
     "cli-truncate": "^1.0.0",
     "dedent": "^0.7.0",
     "node-version": "^1.0.0",
-    "wrap-ansi": "^4.0.0"
+    "wrap-ansi": "^5.0.0"
   },
   "devDependencies": {
     "ava": "0.25.0",
