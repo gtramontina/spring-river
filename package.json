@@ -11,8 +11,6 @@
   "scripts": {
     "lint": "xo",
     "test": "nyc ava",
-    "precommit": "lint-staged",
-    "commitmsg": "validate-commit-msg",
     "semantic-release": "semantic-release"
   },
   "author": "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
@@ -48,6 +46,12 @@
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "validate-commit-msg",
+      "pre-commit": "lint-staged"
     }
   }
 }
