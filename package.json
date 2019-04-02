@@ -23,7 +23,7 @@
     "cli-truncate": "1.1.0",
     "dedent": "0.7.0",
     "node-version": "1.2.0",
-    "wrap-ansi": "5.0.0"
+    "wrap-ansi": "5.1.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "7.5.0",
