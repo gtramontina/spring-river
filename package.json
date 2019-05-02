@@ -32,7 +32,7 @@
     "commitlint": "7.5.2",
     "husky": "2.2.0",
     "lint-staged": "8.1.5",
-    "nyc": "14.0.0",
+    "nyc": "14.1.0",
     "semantic-release": "15.13.3",
     "xo": "0.24.0"
   },
