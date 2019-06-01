@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "8.0.0",
-    "ava": "1.4.1",
+    "ava": "2.0.0",
     "commitizen": "3.1.1",
     "commitlint": "8.0.0",
     "husky": "2.3.0",
