@@ -6,8 +6,6 @@ cache:
 notifications:
   email: false
 node_js:
-  - 10
-  - 11
   - node
 after_success:
   - npm run semantic-release
