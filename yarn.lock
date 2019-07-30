@@ -807,10 +807,10 @@ ajv@^6.5.5, ajv@^6.9.1:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-amqplib@0.5.4:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-0.5.4.tgz#3fa9f1ec569f7da97caa579d51187ee75758ea51"
-  integrity sha512-kl7tAGUV57f67pUcSZ12NbfbzaeejQxab0antU3U7gMG3/LCqzM5bqpzYKEsgwfHRDjDyY98Wmyk2dU4qQhffg==
+amqplib@0.5.5:
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-0.5.5.tgz#698f0cb577e0591954a90572fcb3b8998a76fd40"
+  integrity sha512-sWx1hbfHbyKMw6bXOK2k6+lHL8TESWxjAx5hG8fBtT7wcxoXNIsFxZMnFyBjxt3yL14vn7WqBDe5U6BGOadtLg==
   dependencies:
     bitsyntax "~0.1.0"
     bluebird "^3.5.2"
