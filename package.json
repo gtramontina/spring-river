@@ -26,10 +26,10 @@
     "wrap-ansi": "6.0.0"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "8.1.0",
+    "@commitlint/config-conventional": "8.2.0",
     "ava": "2.4.0",
     "commitizen": "4.0.3",
-    "commitlint": "8.1.0",
+    "commitlint": "8.2.0",
     "husky": "3.0.5",
     "lint-staged": "9.2.5",
     "nyc": "14.1.1",
