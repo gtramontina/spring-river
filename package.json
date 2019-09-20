@@ -22,7 +22,7 @@
     "chalk": "2.4.2",
     "cli-truncate": "2.0.0",
     "dedent": "0.7.0",
-    "node-version": "1.2.0",
+    "node-version": "2.0.0",
     "wrap-ansi": "6.0.0"
   },
   "devDependencies": {
