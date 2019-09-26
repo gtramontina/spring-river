@@ -8797,10 +8797,10 @@ xo-init@^0.7.0:
     the-argv "^1.0.0"
     write-pkg "^3.1.0"
 
-xo@0.25.1:
-  version "0.25.1"
-  resolved "https://registry.yarnpkg.com/xo/-/xo-0.25.1.tgz#229ad427f8efc809d3f49a25e2ff04c5987bb3ac"
-  integrity sha512-+BixcXIZPTpPKZjf716sJ68WBluR49Uxb6+weIl+n+hhuVdnEgCsXfYWRtktfRbzQOOrzcw8h0gbkJtoUyRLyg==
+xo@0.25.2:
+  version "0.25.2"
+  resolved "https://registry.yarnpkg.com/xo/-/xo-0.25.2.tgz#5be58df2c7b18e49b0c9c72f9f46e35eea719124"
+  integrity sha512-TpWGoDhTDhULH1MwD5D1bnPLsQUHG+INv8hHpN8Waj3LHIaQSz+HM4EjJIpyNN2UAVe2C/tBpfOC1yRv2j8mYA==
   dependencies:
     arrify "^2.0.1"
     debug "^4.1.0"
