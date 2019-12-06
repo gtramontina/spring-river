@@ -20,7 +20,7 @@
     "args": "5.0.1",
     "boxen": "4.2.0",
     "chalk": "3.0.0",
-    "cli-truncate": "2.0.0",
+    "cli-truncate": "2.1.0",
     "dedent": "0.7.0",
     "node-version": "2.0.0",
     "wrap-ansi": "6.2.0"
