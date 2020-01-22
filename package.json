@@ -33,7 +33,7 @@
     "husky": "4.2.0",
     "lint-staged": "10.0.2",
     "nyc": "15.0.0",
-    "semantic-release": "16.0.2",
+    "semantic-release": "16.0.3",
     "xo": "0.25.3"
   },
   "lint-staged": {
