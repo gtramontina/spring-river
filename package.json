@@ -31,7 +31,7 @@
     "commitizen": "4.0.3",
     "commitlint": "8.3.5",
     "husky": "4.2.1",
-    "lint-staged": "10.0.2",
+    "lint-staged": "10.0.3",
     "nyc": "15.0.0",
     "semantic-release": "16.0.3",
     "xo": "0.25.3"
