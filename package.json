@@ -34,7 +34,7 @@
     "lint-staged": "10.2.11",
     "nyc": "15.1.0",
     "semantic-release": "17.1.1",
-    "xo": "0.32.1"
+    "xo": "0.33.0"
   },
   "lint-staged": {
     "*.js": [
