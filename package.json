@@ -30,7 +30,7 @@
     "ava": "2.4.0",
     "commitizen": "4.2.3",
     "commitlint": "11.0.0",
-    "husky": "5.0.8",
+    "husky": "5.0.9",
     "lint-staged": "10.5.4",
     "nyc": "15.1.0",
     "semantic-release": "17.3.8",
