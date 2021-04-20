@@ -10671,10 +10671,10 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha512-PSNhEJDejZYV7h50BohL09Er9VaIefr2LMAf3OEmpCkjOi34eYyQYAXUTjEQtZJTKcF0E2UKTh+osDLsgNim9Q==
 
-xo@0.39.0:
-  version "0.39.0"
-  resolved "https://registry.yarnpkg.com/xo/-/xo-0.39.0.tgz#bac95aa2f40e99a5a410eb27a3859e51b7bd0d22"
-  integrity sha512-vGVK9u9g8QMaSB+h4aco1gGRVTmVt/l00nVtWyLy+1QdA6h/A8Hm644dZAybYJ5aoU+6kEsNGOFRKcfIoUi0rw==
+xo@0.39.1:
+  version "0.39.1"
+  resolved "https://registry.yarnpkg.com/xo/-/xo-0.39.1.tgz#02cda4d77651548edcc27f1aa6c929c7390132be"
+  integrity sha512-7OXtjkIfCMw3XfUPGInnUhxb/w/IHqATQM7XHOxwiJqbsQ44OYcLkTZb7mA35tDtqflnvWk88wD+IxiR/XJ5gQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.22.0"
     "@typescript-eslint/parser" "^4.22.0"
