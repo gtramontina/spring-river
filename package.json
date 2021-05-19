@@ -16,7 +16,7 @@
   "author": "Guilherme J. Tramontina <guilherme.tramontina@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "0.7.1",
+    "amqplib": "0.8.0",
     "args": "5.0.1",
     "boxen": "5.0.1",
     "chalk": "4.1.1",
